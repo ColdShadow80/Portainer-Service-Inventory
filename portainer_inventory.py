@@ -2,6 +2,7 @@ import requests
 import json
 import os
 from datetime import datetime
+import configparser
 
 CONFIG_FILE = "config.txt"
 OUTPUT_DIR = "output"

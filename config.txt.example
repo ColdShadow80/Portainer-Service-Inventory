@@ -1,0 +1,8 @@
+# No quotes
+# No spaces around =
+# VERIFY_SSL=true if using HTTPS with valid cert
+
+PORTAINER_URL=http://IP:PORT
+USERNAME=your_username
+PASSWORD=your_password
+VERIFY_SSL=false 
